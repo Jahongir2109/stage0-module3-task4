@@ -10,5 +10,9 @@ public class IntRepresentation {
         System.out.println((char) h);
         System.out.println((char) o);
         System.out.println((char) r);
+        System.err.println((char) c);
+        System.err.println((char) h);
+        System.err.println((char) o);
+        System.err.println((char) r);
     }
 }
