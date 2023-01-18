@@ -4,15 +4,11 @@ public class IntRepresentation {
     public static void main(String[] args) {
         int c=(char)'c';
         int h=(char)'h';
-        int o=(char)'o';
+        int o=(char)'a';
         int r=(char)'r';
-        System.out.println((char) c);
-        System.out.println((char) h);
-        System.out.println((char) o);
-        System.out.println((char) r);
-        System.err.println((char) c);
-        System.err.println((char) h);
-        System.err.println((char) o);
-        System.err.println((char) r);
+        System.out.println(c);
+        System.out.println(h);
+        System.out.println(o);
+        System.out.println(r);
     }
 }
